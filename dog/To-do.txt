@@ -1,0 +1,96 @@
+================================================================================================================================================
+Overall Edits - New for git!
+================================================================================================================================================
+
+Hold-off - Remove all embedded scroll bars so that only the main scroll bar is used
+Hold-off - Move the "Need Help" area into the bottom tool bar
+Hold-off - add a hyperlink to the Home Landing Page on the Lifestyle Management Logo
+
+
+Done - Replace "Need Help?" with "Contact Us" 
+	* Maybe change the button to "Contact Us" instead of the header, this is more intuitive for the user as that phrase is associated with with a link
+
+================================================================================================================================================
+Home Landing Page
+================================================================================================================================================
+
+
+Hold-off - The size of the website is slightly too large so that the "Men" and "Professional" buttons cannot be seen unless you scroll down. We'd like to avoid the men having to scroll at all on the landing page.
+
+Hold-off - If we'd like to maintain the current size for whatever reason then the Men and Professional Tabs must be seen immediately, we could consider integrating the button titles into the actual photo and then turning the photo into the hyperlink.
+
+Hold-off - Make "Log In" button more prominent so it doesn't appear to just be part of the banner area
+
+Hold-off - Rotating banner can be replaced with the single picture provided by Linsey that has the LM description as a part of it
+
+Done - Change "Join the TrueNTH LM Network!" to "Join the TrueNTH Lifestyle Management Network!"
+
+Done - Change "Join the TrueNTH LM online community and gain FREE access to:" with "Join the TrueNTH Lifestyle Management (LM) online community and gain FREE access to:"
+
+Done - Replace "Get Support for healthy living through online community resources and programs" to "Get support for healthy living through online resources and community programs".
+
+Done - Replace "Men" with "Prostate Cancer Survivors"
+
+Done - Replace "Professionals" with "Wellness Professionals"
+
+Done - Replace "Health professionals learn how to improve the lives of men with prostate cancer" with "Learn how to use wellness to improve the lives of men with prostate cancer"
+
+Done - Replace "Need Help?" with "Contact Us".
+
+================================================================================================================================================
+"Men" Page (
+================================================================================================================================================
+
+
+Hold-off - Replace the logos accompanying the "Physical Activity", "Nutrition" and "Stress-Reduction" titles with a more esthetically pleasing option, such as boxes for each column like has been presented in the Public Access area.
+
+Done - To be changed to "Prostate Cancer Survivors" Page
+
+Done - Replace "Set your own health and wellness goals using the online features listed below" with "Reach and maintain your wellness goals using the online features listed below."
+
+Done - Remove embedded video so that the information presented below it and the "Community Program" search function are visible when user lands with no or minimal scrolling
+
+Done - Replace "For more information on community programs, become a member of the TrueNTH LM network by signing up now" with "For more information on program options in your area become a member of the TrueNTH LM network"
+
+Done - Typos: "exercise-es", "preperation", "
+
+================================================================================================================================================
+"Professional" Page
+================================================================================================================================================
+
+Hold-off - Replace "If you are a healthcare, fitness, nutrition, or wellness professional and would like to join the TrueNTH LM network, sign up now or contact us!"
+
+Hold-off - Hyperlink "contact us" to the "Get Help" form.
+
+Done - Remove embedded video so that the information presented below it and the "Community Program" search function are visible when user lands with no or minimal scrolling
+
+Done - remove the small "TrueNTH LM" logos that accompany the book, computer, and group icons.
+
+Done - Replace "Lifestyle Management has developed programming outlines and resources to help professionals start local community programs hosted at wellness centres, health clinics, or other suitable facilities" with "Lifestyle Management has developed programming outlines and resources to help professionals start and promote local community programs hosted at wellness centres, health clinics, or other suitable facilities"
+
+Done - add a hyperlink to the professionals sign up page to the "sign up now" text in the "If you want to become a TrueNTH LM Professional or start a community program in your region, sign up now!"
+
+Done - Typos: "eligable", "pro-gramming",
+
+================================================================================================================================================
+"About" Page
+================================================================================================================================================
+
+
+Done - Change tense of "Best Practice" section so that it reads as follows "The TrueNTH Lifestyle Management team constantly reviews the literature and updates program materials so they are in line with current research and best practice. Program facilitators receive training in-services to ensure they giving up-to-date and accurate information."
+
+Done - Change "mindfulness" to "stress-reduction" in the "Multidisciplinary" tab
+
+Done - Change "clinicians" in the "Multidisciplinary" tab to "healthcare professionals"
+
+Done - Change "Men Sign Up Here" to "Sign up as a Prostate Cancer Survivor"
+
+Done - Change "Professionals Sign Up Here" to "Sign up as a Professional"
+
+================================================================================================================================================
+"Meet the Team" Page
+================================================================================================================================================
+
+
+Done - Change "Men Sign Up Here" to "Sign up as a Prostate Cancer Survivor"
+Done - Change "Professionals Sign Up Here" to "Sign up as a Professional"
